@@ -1,25 +1,24 @@
 ---
-
-banner: "![[E638E2C6-FCD0-42EA-87CC-89420CF327E2.webp]]"
+type: index
+banner: "![[Bookshelf.webp]]"
 banner_x: 0.5
 cssClass: three-column-list
 ---
-
-[[01 Genesis]]
-
-
 # Home
+%% ![[Buttons#^button-new-sg]] %%
 
 ## Upcoming Lessons and Sermons
 ```dataview
 TABLE without ID
 	file.link AS "Lesson",
 	type AS "Type",
+	date,
 	description AS "Description",
 	topic AS "Topic",
 	series AS "Series",
 	teacher AS "Teacher",
-	themes AS "Themes"
+	themes AS "Themes",
+	file.etags AS "Tags"
 FROM "1 Lessons"
 WHERE
 	type = "sermon" OR type = "lesson"
@@ -46,7 +45,11 @@ file.mtime DESC
 
 ## MAPS
 ```dataview
-LIST FROM "2 Maps"
+LIST WITHOUT ID
+	link(file.link, alias)
+FROM "2 Maps"
+SORT
+	file.name ASC
 ```
 
 ## Articles
@@ -63,3 +66,15 @@ SORT
 file.mtime DESC
 ```
 
+## Table
+```dataview
+LIST WITHOUT ID
+	link(file.link, alias)
+FROM "2 Maps"
+```
+
+
+
+
+> [!timeline]+ Title
+> Contents
