@@ -6,7 +6,7 @@
 # Welcome to the Paraclete Beta Vault
 Hello and welcome to the Paraclete Beta Vault! Thank you for downloading this vault to check out the Paraclete System. I hope you find this vault (and the system) to be incredibly helpful.
 
-The point of this project is to create a set of standards and a workflow to help Bible Teachers create lessons with greater efficiency and richness. The Paraclete System leverages the inherant power in [Obsidian](https://www.obsidian.md) as a note making and connecting application to make this happen.
+The point of this project is to create a set of standards and a workflow to help Bible Teachers create lessons with greater efficiency and richness. The Paraclete System leverages the inherent power in [Obsidian](https://www.obsidian.md) as a note making and connecting application to make this happen.
 
 ### Want to learn more?
 Before you get to understand this vault, you might want to acquaint yourself with the Paraclete System if you haven't already.
@@ -29,7 +29,7 @@ After you are comfortable with the Paraclete System, you can delete this folder 
 ## How to use it
 This particular Beta Vault is pre-populated with a few notes, plug-in, and folders for you to experiment with. Feel free to link, edit, destroy, and create to your heart’s content. Get a feel for the vault, and workflow.
 
-There are a couple main options here. This is either [[++ Welcome to PARACLETE!#Your first Vault|your first Obsidian Vault]], or you are an [[++ Welcome to PARACLETE!#Experienced Obsidian User|expierenced Obsidian user.]] Either way, the best way to use this Vault is to start using it. I recommend to start with a lesson, and a reflection/study note of some sort. See how they connect, how it can help you, and then go from there.
+There are a couple main options here. This is either [[++ Welcome to PARACLETE!#Your first Vault|your first Obsidian Vault]], or you are an [[++ Welcome to PARACLETE!#Experienced Obsidian User|experienced Obsidian user.]] Either way, the best way to use this Vault is to start using it. I recommend to start with a lesson, and a reflection/study note of some sort. See how they connect, how it can help you, and then go from there.
 
 ### Your first Vault
 If this is your first experience with Obsidian, check out [[Obsidian Guide|This Page]] for a very detailed breakdown.
