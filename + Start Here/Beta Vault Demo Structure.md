@@ -1,0 +1,81 @@
+
+# File Structure
+
+- 1 Lessons
+	- Sinners in the hands of an angry God
+	- *A handful of GPT generated lessons in various stages of completion*
+- 2 Maps
+	- Atlas
+		- *The Map of Maps*
+	- Themes MAP
+	- Lessons MAP
+	- *Etc.*
+- 3 Archives
+	- 00 - Personal
+		- *Folders and Notes for anything not directly related to Biblical Study*
+	- 10 - The Bible
+		- 11 - Books of the Bible
+			- *Notes on each Book*
+		- 12 - Stories in the Bible
+		- 13 - Historical Context of the Bible
+		- 14 - Bible Translations
+		- 15 - 
+	- 20 - Theology
+		- 21 - Theological Concepts
+			- 21.01 - Theology Proper
+			- 21.02 - Christology
+			- 21.03 - Pneumatology
+			- 21.04 - Ecclesiology
+			- 21.05 - Soteriology
+			- *Etc. Etc.*
+		- 22 - Theological Systems
+			- 22.01 - Major Schools of Thought
+			- 22.02 - Denominations
+		- 23 - Theological Documents
+			- 23.01 - Historical Documents
+			- 23.02 - Historical Creeds
+			- 23.03 - Modern Documents
+			- 23.04 - Modern Creeds
+		- 24 - Biblical Themes
+			- 24.01 - Sin
+			- 24.02 - Grace
+			- *Etc. Etc.*
+	- 30 - People
+		- 31 - People in the Bible
+			- 31.01 - People in the Old Testament
+			- 31.02 - People in the New Testament
+		- 32 - People who Taught the Bible
+		- 33 - People who Teach the Bible
+		- 34 - People I Teach/Know
+			- *Notes on people you know*
+			- *Possibly organized into small groups*
+	- 40 - Wrestling
+		- *Notes on topics being wrestled and researched*
+	- 50 - Personal Notes
+		- *Folders left free for topics of personal interest.* 
+		- *Not the same as 00 Personal.*
+		- *These should be related topics/areas.*
+		- *For example, an upcoming book, science, any/all areas of interest. *
+	- 60 - Personal Notes
+	- 70 - Personal Notes
+	- 80 - Personal Notes
+	- 90 - Resources
+		- 91 - Books
+			- *A New folder for Each Book*
+		- 92 - Articles
+			- 92.01 - Source 1
+			- 92.02 - Source 2
+			- 92.3 - Source 3
+			- *Etc. Etc.*
+		- 93 - Websites
+			- 93.01 - Website 1
+			- 93.02 - Website 2
+			- *Folders for resources taken directly from specific sites.*
+			- *Either for reference or to rewrite into your own notes at a later date*
+- 4 System
+	- Attachments
+		- *All pictures and audio for Obsidian to use in other notes*
+	- Templates
+		- *Paraclete Template Files*
+	- Scripture  (NKJV)
+		- *The Bible in Markdown*
