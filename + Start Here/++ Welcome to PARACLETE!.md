@@ -1,5 +1,5 @@
 >[!warning]- This Vault is in BETA
->This vault is cuurently in a Beta state, and is subject to future changes.
+>This vault is currently in a Beta state, and is subject to future changes.
 >This also means portions of the vault may be incomplete, such as blank or unfinished pages.
 >If you are using this vault, than I would love to hear your feedback! See [[Beta Status|This page]] for more info.
 
