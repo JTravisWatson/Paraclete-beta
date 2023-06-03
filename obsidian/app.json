@@ -1,0 +1,13 @@
+{
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "livePreview": false,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "4 System/Attachments",
+  "userIgnoreFilters": [
+    "4 System/"
+  ]
+}
